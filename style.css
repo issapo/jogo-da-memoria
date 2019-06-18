@@ -1,0 +1,11 @@
+body {
+    margin: 0%;
+    background-color: green;
+}
+
+.cartas {
+    height: 300px;
+    width: 135px;
+    display: flex;
+    align-content: space-around;
+}
